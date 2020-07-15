@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Patna Tour Guide</string>
+    <string name="About_1_name">Airport</string>
+    <string name="About_1_description">Patna Airport,Jay Prakash Narayan International Airport (IATA: PAT, ICAO: VEPT) is a customs airport located in Patna, the state capital of Bihar in India.It is named after independence activist Jayaprakash Narayan.</string>
+    <string name="About_1_address">https://www.google.com/maps?q=patna+airport&amp;um=1&amp;ie=UTF-8&amp;sa=X&amp;ved=2ahUKEwih6IT7v4nqAhXR4jgGHfEKAh8Q_AUoAXoECCAQAw</string>
+
+    <string name="About_2_name">Bus Stand</string>
+    <string name="About_2_description">Located in Mithapur. Patna Bus Stand Enquiry Number 0612-3212534.</string>
+    <string name="About_2_address">https://www.google.com/maps/place/Mithapur+Bus+Stand/@25.5883374,85.1325354,17z/data=!3m1!4b1!4m5!3m4!1s0x39ed5871371b8309:0xda4e6ef1bae82a79!8m2!3d25.5883374!4d85.1347241</string>
+
+
+    <string name="About_3_name">Railway</string>
+    <string name="About_3_description">Patna Junction, station code PNBE, is a major railway station in the capital city of Patna in the Indian state of Bihar. Situated in heart of the city, it is the main railway station serving Patna. It falls under the Danapur division of the East Central Railway zone of the Indian Railways..</string>
+    <string name="About_3_address">https://www.google.com/maps?q=patna+junction&amp;um=1&amp;ie=UTF-8&amp;sa=X&amp;ved=2ahUKEwjH8I6HwInqAhUPyzgGHR0SAdkQ_AUoAXoECB4QAw</string>
+
+    <string name="Place_1_name">Bihar Museum</string>
+    <string name="Place_1_description">Bihar Museum is a museum located in Patna.[3] It was partially opened in August 2015.[4] \'The children\'s museum\', the main entrance area, and an orientation theatre were the only parts opened to the public in August 2015.[5][6] Later, in October 2017 remaining galleries were also opened. More than 100 artefacts were transferred here from Patna Museum.</string>
+    <string name="Place_1_address">https://www.google.com/maps/place/P%26M+Mall/@25.6340736,85.1041838,17z/data=!3m1!4b1!4m5!3m4!1s0x39ed577e021a41ff:0x619f6dd3ed125a3d!8m2!3d25.6340736!4d85.1063725</string>
+
+    <string name="Place_2_name">Planetaurium</string>
+    <string name="Place_2_description">A planetarium (plural planetaria or planetariums) is a theatre built primarily for presenting educational and entertaining shows about astronomy and the night sky, or for training in celestial navigation.
+                "A dominant feature of most planetaria is the large dome-shaped projection screen onto which scenes of stars, planets, and other celestial objects can be made to appear and move realistically to simulate the complex 'motions of the heavens'.</string>
+    <string name="Place_2_address">https://www.google.com/maps?q=planetarium&amp;um=1&amp;ie=UTF-8&amp;sa=X&amp;ved=2ahUKEwiuoPqVu4nqAhVKyjgGHRAHCbQQ_AUoAXoECBwQAw</string>
+
+
+    <string name="Place_3_name">PnM Mall</string>
+    <string name="Place_3_description">P&amp;M Mall is the first mall of Patna, the capital city of the eastern Indian state Bihar.[3] It was opened in April 2011.[4] Film director Prakash Jha &amp; Manmohan shetty is the Builder of the mall. This mall houses world-class retailing spaces which includes hyper market, departmental store, Multiplex, Entertainment Zone, Food court, restaurants, Gym, hotel, Conference &amp; Banquet facilities Banquet Hall-Grand Ball Room can take up to 700 pax, conference Halls – Nalanda, Mitihla,Takshila and Vaishali, retail shops, elevator, and escalator. The mall is located at Patliputra colony in Patna, Bihar.</string>
+    <string name="Place_3_address">https://www.google.com/maps/place/P%26M+Mall/@25.6340736,85.1041838,17z/data=!3m1!4b1!4m5!3m4!1s0x39ed577e021a41ff:0x619f6dd3ed125a3d!8m2!3d25.6340736!4d85.1063725</string>
+
+    <string name="Place_4_name">Buddha Smriti Park</string>
+    <string name="Place_4_description">Buddha Smriti Park also known as Buddha Memorial Park (as translated in English) is an urban park located on Frazer Road near Patna Junction in Patna, India.[1] This park has been designed by Vikram Lall[4] and developed by the Bihar Government[5] to commemorate the 2554th birth anniversary of the Buddha. This park was inaugurated by the 14th Dalai Lama.</string>
+    <string name="Place_4_address">https://www.google.com/maps/place/Buddha+Smriti+Park/@25.6063961,85.1348735,17z/data=!3m1!4b1!4m5!3m4!1s0x39ed58429528a9f1:0x7dc52c62fffa32a2!8m2!3d25.6063961!4d85.1370622</string>
+
+    <string name="Hotel_1_name">Hotel Maurya </string>
+    <string name="Hotel_1_description">Hotel Maurya Patna is located 500 m from Patna Museum and Buddha Smriti Park. It houses 2 dining options, an outdoor pool and rooms with complimentary Wi-Fi.</string>
+    <string name="Hotel_1_address">https://www.google.com/maps/search/hotel+chnakya/@25.5940928,85.1288087,14z/data=!3m1!4b1</string>
+
+
+    <string name="Hotel_2_name">Lemon Tree</string>
+    <string name="Hotel_2_description">Located in Patna, Lemon Tree Premier, Patna offers air-conditioned rooms with free WiFi. Featuring a 24-hour front desk, this property also provides guests with a restaurant. Guests can enjoy city views.</string>
+    <string name="Hotel_2_address">https://www.google.com/maps/search/hotel+chnakya/@25.5940928,85.1288087,14z/data=!3m1!4b1</string>
+
+    <string name="Hotel_3_name">Hotel Patliputra Exotica</string>
+    <string name="Hotel_3_description">Located in Patna, Lemon Tree Premier, Patna offers air-conditioned rooms with free WiFi. Featuring a 24-hour front desk, this property also provides guests with a restaurant. Guests can enjoy city views. </string>
+    <string name="Hotel_3_address">https://www.google.com/maps/search/hotel+chnakya/@25.5940928,85.1288087,14z/data=!3m1!4b1</string>
+
+    <string name="Hotel_4_name">Hotel Chanakya</string>
+    <string name="Hotel_4_description">Chanakya inn is a unique budget hotel and is practically on a walk –in configuration for passengers arriving by rail. It is also easily accessed from the airport.</string>
+    <string name="Hotel_4_address">https://www.google.com/maps/search/hotel+chnakya/@25.5940928,85.1288087,14z/data=!3m1!4b1</string>
+
+
+    <string name="Hotel_5_name">Ginger Patna</string>
+    <string name="Hotel_5_description">Ginger Patna offers air-conditioned accommodation in Patna. Among the facilities of this property are a restaurant, a 24-hour front desk and room service, along with free WiFi throughout the property. There is free private parking and the property features paid airport shuttle service.</string>
+    <string name="Hotel_5_address">https://www.google.com/maps/search/hotel+chnakya/@25.5940928,85.1288087,14z/data=!3m1!4b1</string>
+
+
+    <string name="Restaurant_1_name">17 Degrees</string>
+    <string name="Restaurant_1_description">This restaurant located in one of the busiest malls in Patna, P and M Mall, has become one a favourite for the locals.We have visited this eatery on many occasions during our family visits. The charming ambience, convenient location and consistently good food have all contributed to its popularity.</string>
+    <string name="Restaurant_1_address">https://www.google.com/maps?sxsrf=ALeKk00REW01UGf7uOBdFfMNcKbxZQm3AQ:1592419003363&amp;q=pind+balluchi+patna+wikipedia&amp;gs_lcp=CgZwc3ktYWIQAzIGCAAQFhAeOgQIABBHOgIIADoCCCZQm0FYmVxg_15oAHABeACAAaIDiAGIF5IBBzItNi4zLjGYAQCgAQGqAQdnd3Mtd2l6&amp;uact=5&amp;um=1&amp;ie=UTF-8&amp;sa=X&amp;ved=2ahUKEwinndmOv4nqAhVCXn0KHUUmBbkQ_AUoA3oECAwQBQ</string>
+
+    <string name="Restaurant_2_name">CookBook Cafe</string>
+    <string name="Restaurant_2_description">Since being laid out as a park for sports and recreational purposes in 1864 the unique beauty of University Parks has made it a focal point for hosting events and attracting large public gatherings to commemorate special occasions.</string>
+    <string name="Restaurant_2_address">https://www.google.com/maps?sxsrf=ALeKk00REW01UGf7uOBdFfMNcKbxZQm3AQ:1592419003363&amp;q=pind+balluchi+patna+wikipedia&amp;gs_lcp=CgZwc3ktYWIQAzIGCAAQFhAeOgQIABBHOgIIADoCCCZQm0FYmVxg_15oAHABeACAAaIDiAGIF5IBBzItNi4zLjGYAQCgAQGqAQdnd3Mtd2l6&amp;uact=5&amp;um=1&amp;ie=UTF-8&amp;sa=X&amp;ved=2ahUKEwinndmOv4nqAhVCXn0KHUUmBbkQ_AUoA3oECAwQBQ</string>
+
+    <string name="Restaurant_3_name">Pind Balluchi</string>
+    <string name="Restaurant_3_description">Since being laid out as a park for sports and recreational purposes in 1864 the unique beauty of University Parks has made it a focal point for hosting events and attracting large public gatherings to commemorate special occasions.</string>
+    <string name="Restaurant_3_address">https://www.google.com/maps?sxsrf=ALeKk00REW01UGf7uOBdFfMNcKbxZQm3AQ:1592419003363&amp;q=pind+balluchi+patna+wikipedia&amp;gs_lcp=CgZwc3ktYWIQAzIGCAAQFhAeOgQIABBHOgIIADoCCCZQm0FYmVxg_15oAHABeACAAaIDiAGIF5IBBzItNi4zLjGYAQCgAQGqAQdnd3Mtd2l6&amp;uact=5&amp;um=1&amp;ie=UTF-8&amp;sa=X&amp;ved=2ahUKEwinndmOv4nqAhVCXn0KHUUmBbkQ_AUoA3oECAwQBQ</string>
+
+    <string name="Restaurant_4_name">KFC</string>
+    <string name="Restaurant_4_description">Since being laid out as a park for sports and recreational purposes in 1864 the unique beauty of University Parks has made it a focal point for hosting events and attracting large public gatherings to commemorate special occasions.</string>
+    <string name="Restaurant_4_address">https://www.google.com/maps?sxsrf=ALeKk00REW01UGf7uOBdFfMNcKbxZQm3AQ:1592419003363&amp;q=pind+balluchi+patna+wikipedia&amp;gs_lcp=CgZwc3ktYWIQAzIGCAAQFhAeOgQIABBHOgIIADoCCCZQm0FYmVxg_15oAHABeACAAaIDiAGIF5IBBzItNi4zLjGYAQCgAQGqAQdnd3Mtd2l6&amp;uact=5&amp;um=1&amp;ie=UTF-8&amp;sa=X&amp;ved=2ahUKEwinndmOv4nqAhVCXn0KHUUmBbkQ_AUoA3oECAwQBQ</string>
+
+    <string name="category_about">About</string>
+    <string name="category_places">Placess</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_hotels">Hotels</string>
+
+</resources>
