@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://unpkg.com/mermaid@8.6.0/dist/mermaid.min.js"></script>
+    <style type="text/css">
+   body{
+       
+   }
+    </style>
+    <script>
+      mermaid.initialize({ startOnLoad: true });
+    </script>
+    <title>Patna Tour Guide</title>
+  </head>
+  <body>
+      <div class="mermaid">
+        graph LR
+        A([Start]) --> |click| B[Home]
+        B[Home] -->|click| a[About]
+        B[Home] -->|click| b[Places]
+        B[Home] -->|click| c[Restaurants]
+        B[Home] -->|click| d[Hotels]
+    
+        a[about] -->|click| 1[Airport]
+        a[about] -->|click| 2[Bus Stand]
+        a[about] -->|click| 3[Railway]
+    
+        b[Places] -->|click| 4[Bihar Museum]
+        b[Places] -->|click| 5[Planetaurium]
+        b[Places] -->|click| 6[PnM Mall]
+        b[Places] -->|click| 7[Buddha Smriti Park]
+    
+        c[Restaurants] -->|click| 8[17 Degrees]
+        c[Restaurants] -->|click| 9[CookBook Cafe]
+        c[Restaurants] -->|click| 10[Pind Balluchi]
+        c[Restaurants] -->|click| 11[KFC]
+    
+        d[Hotels] -->|click| 12[Hotel Maurya]
+        d[Hotels] -->|click| 13[Lemon Tree]
+        d[Hotels] -->|click| 14[Hotel Patliputra Exotica]
+        d[Hotels] -->|click| 15[Hotel Chanakya]
+        d[Hotels] -->|click| 16[Ginger Patna]
+        
+      
+      </div>
+  </body>
+</html>
